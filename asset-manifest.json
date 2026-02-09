@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poc-camera/static/css/main.b39788db.css",
+    "main.js": "/poc-camera/static/js/main.bd521dbc.js",
+    "static/js/453.8eeaf8a0.chunk.js": "/poc-camera/static/js/453.8eeaf8a0.chunk.js",
+    "index.html": "/poc-camera/index.html",
+    "main.b39788db.css.map": "/poc-camera/static/css/main.b39788db.css.map",
+    "main.bd521dbc.js.map": "/poc-camera/static/js/main.bd521dbc.js.map",
+    "453.8eeaf8a0.chunk.js.map": "/poc-camera/static/js/453.8eeaf8a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b39788db.css",
+    "static/js/main.bd521dbc.js"
+  ]
+}
