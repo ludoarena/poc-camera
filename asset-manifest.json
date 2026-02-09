@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/REPO_NAME/static/css/main.2240247f.css",
-    "main.js": "/REPO_NAME/static/js/main.c2d88215.js",
-    "static/js/453.8eeaf8a0.chunk.js": "/REPO_NAME/static/js/453.8eeaf8a0.chunk.js",
-    "index.html": "/REPO_NAME/index.html",
-    "main.2240247f.css.map": "/REPO_NAME/static/css/main.2240247f.css.map",
-    "main.c2d88215.js.map": "/REPO_NAME/static/js/main.c2d88215.js.map",
-    "453.8eeaf8a0.chunk.js.map": "/REPO_NAME/static/js/453.8eeaf8a0.chunk.js.map"
+    "main.css": "/poc-camera/static/css/main.2240247f.css",
+    "main.js": "/poc-camera/static/js/main.84ed7c86.js",
+    "static/js/453.8eeaf8a0.chunk.js": "/poc-camera/static/js/453.8eeaf8a0.chunk.js",
+    "index.html": "/poc-camera/index.html",
+    "main.2240247f.css.map": "/poc-camera/static/css/main.2240247f.css.map",
+    "main.84ed7c86.js.map": "/poc-camera/static/js/main.84ed7c86.js.map",
+    "453.8eeaf8a0.chunk.js.map": "/poc-camera/static/js/453.8eeaf8a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2240247f.css",
-    "static/js/main.c2d88215.js"
+    "static/js/main.84ed7c86.js"
   ]
 }
