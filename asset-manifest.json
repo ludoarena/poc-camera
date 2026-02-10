@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/poc-camera/static/css/main.32f2e7ef.css",
-    "main.js": "/poc-camera/static/js/main.ee08b2e7.js",
+    "main.css": "/poc-camera/static/css/main.5a29ec11.css",
+    "main.js": "/poc-camera/static/js/main.d0303d50.js",
     "static/js/453.8eeaf8a0.chunk.js": "/poc-camera/static/js/453.8eeaf8a0.chunk.js",
     "index.html": "/poc-camera/index.html",
-    "main.32f2e7ef.css.map": "/poc-camera/static/css/main.32f2e7ef.css.map",
-    "main.ee08b2e7.js.map": "/poc-camera/static/js/main.ee08b2e7.js.map",
+    "main.5a29ec11.css.map": "/poc-camera/static/css/main.5a29ec11.css.map",
+    "main.d0303d50.js.map": "/poc-camera/static/js/main.d0303d50.js.map",
     "453.8eeaf8a0.chunk.js.map": "/poc-camera/static/js/453.8eeaf8a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32f2e7ef.css",
-    "static/js/main.ee08b2e7.js"
+    "static/css/main.5a29ec11.css",
+    "static/js/main.d0303d50.js"
   ]
 }
